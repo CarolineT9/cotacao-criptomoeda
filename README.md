@@ -71,7 +71,7 @@ A aplicação utiliza a [API CryptoCompare](https://www.cryptocompare.com/) para
 
 ## Link
 
-[CotaçãoCriptomoeda](https://papaya-conkies-2ee88c.netlify.app/)
+[CotaçãoCriptomoeda](https://aquamarine-nougat-f33439.netlify.app/)
 
 ---
 
